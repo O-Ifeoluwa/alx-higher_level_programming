@@ -1,1 +1,0 @@
-ALX Python projects

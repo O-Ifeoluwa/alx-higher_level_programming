@@ -1,9 +1,13 @@
 #!/usr/bin/python3
 
+  """
+        base module
+    """
+
 class Base:
     """
         class Base is the 'base' of all other classes in this project. It's goal is to manage
-        'id' attribute in all future classes and avoid duplicating the same code
+        'id' attribute in all future classes and avoid duplicating the same code and by extension, the same bugs
     """
 
     __nb_objects = 0

@@ -1,12 +1,11 @@
 #!/usr/bin/python3
-
-  """
-        base module
-    """
+"""
+    base module
+"""
 
 class Base:
     """
-        class Base is the 'base' of all other classes in this project. It's goal is to manage
+        class Base is the 'base' of all other classes in this project. Its goal is to manage
         'id' attribute in all future classes and avoid duplicating the same code and by extension, the same bugs
     """
 
